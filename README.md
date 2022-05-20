@@ -3,4 +3,4 @@ My own leetcode solution
 
 
 
-# Manachen algorithm
+Manachen algorithm
